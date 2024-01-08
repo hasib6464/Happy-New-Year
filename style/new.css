@@ -94,15 +94,26 @@
     border-radius:200px;
     margin: 20px 70px 20px 70px;
 }
+.function-holiday{
+    text-align: center;
+}
 .holiday-sale-img{
     background-image: url(../image/Rectangle\ 1.png);
    
     background-repeat: no-repeat;
-    background-position: right;
+    /* background-position: right; */
+}
+.holiday-sale-img img{
+    
+}
+.img-holiday-position{
+    display: flex;
 }
 .holiday-sale-red-img{
     background-image: url(../image/Rectangle\ 2.png);
    
     background-repeat: no-repeat;
     background-position: right;
+    
+    padding-left: 50px;
 }

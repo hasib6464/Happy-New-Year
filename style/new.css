@@ -138,3 +138,20 @@ padding: 10px;
     border-radius:0 20px 20px 0px;
     border: none;
 }
+.footer{
+    height: 300px;
+    display: flex;
+    color: white;
+    background-color: black
+}
+.footer-street{
+    padding-left: 50px;
+    margin-left: 30px;
+}
+.footer-img{
+    padding-left: 250px;
+    padding-top: 100px;
+}
+.footer-end{
+    padding-left: 500px;
+}

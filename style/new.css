@@ -1,0 +1,95 @@
+
+
+.body{
+    font-family: 'Kanit', sans-serif;
+    font-family: 'Poppins', sans-serif;
+} 
+.header-container{
+    background-image: url(../image/Banner\ Image.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    
+}
+.header-container{
+    height:900px;
+}
+.header-title{
+    color:white;
+    text-align: center;
+    font-size:large;
+    padding-top: 200px; 
+    
+}
+.header-text{
+    font-size: 50px;
+    padding-top: 0px;
+}
+
+.holiday{
+   text-align: center;
+   padding-top: 0px;
+   margin-top: 0px;
+}
+.holiday-img img {
+  height: 200px;
+}
+.Offer{
+    color: red;
+    font-size: 40px;
+}
+.holiday-deal{
+    color: rgb(186, 20, 20);
+}
+#Categories{
+    font-size:x-large;
+}
+.midnight-party{
+    background-image: url(../image/Vectorrr.png);
+    background-repeat: no-repeat;
+    display: flex;
+    background-size: 100%;
+    height: 700px;
+    
+}
+.midnight-img{
+    padding: 100px;
+}
+.btn{
+    color:white;
+    background-color:red;
+    border-radius: 10px;
+    width: 100px;
+    height: 30px;
+    border: 0px;
+}
+.party-text{
+    color: white;
+    padding: 220px 150px ;
+    
+}
+.new-park{
+    background-color: rgb(247, 249, 249);
+    height: 300px;
+    border-radius: 10px;
+    text-align: center;
+    padding-top: 100px;
+    margin-top: 20px;
+}
+.new-park-text{
+    color: red;
+}
+.best-offer{
+    display: flex;
+}
+.holiday-sale-img{
+    background-image: url(../image/Rectangle\ 1.png);
+   
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.holiday-sale-red-img{
+    background-image: url(../image/Rectangle\ 2.png);
+   
+    background-repeat: no-repeat;
+    background-position: right;
+}

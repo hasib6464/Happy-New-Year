@@ -152,6 +152,9 @@ padding: 10px;
     padding-left: 250px;
     padding-top: 100px;
 }
+.new-park-image img:hover{
+border: 2px solid red;
+}
 .footer-end{
     padding-left: 500px;
 }

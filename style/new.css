@@ -117,3 +117,24 @@
     
     padding-left: 50px;
 }
+.Awesome-part{
+    padding-left: 10px;
+}
+.new-park-image img{
+padding: 10px;
+}
+.news-letter{
+    text-align: center;
+    background-color: aliceblue;
+    padding: 20px;
+}
+#input{
+    border-radius: 20px 0px 0px 20px;
+    height: 25px;
+    border: none;
+    background-color:white;
+}
+#input-btn{
+    border-radius:0 20px 20px 0px;
+    border: none;
+}

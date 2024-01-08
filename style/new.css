@@ -78,8 +78,21 @@
 .new-park-text{
     color: red;
 }
+.new-best-offer{
+    padding-left: 70px;
+}
 .best-offer{
     display: flex;
+}
+.best-offer-img img{
+    padding:20px;
+    height: 200px;
+}
+.best-offer-img{
+   
+    border: 10px solid red;
+    border-radius:200px;
+    margin: 20px 70px 20px 70px;
 }
 .holiday-sale-img{
     background-image: url(../image/Rectangle\ 1.png);
